@@ -1,0 +1,8 @@
+1.Create Environment==[conda create -p venv python==3.12 -y]
+2.Activate conda Environment==[conda activate] in venv folder selected
+
+1- Set up the github{repository}
+        a.) NEW Environment
+        b.)setup.py
+        c.)requirements.txt[pip install -r requirements.txt]
+2- Source folder and build the package
